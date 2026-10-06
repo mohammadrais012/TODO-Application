@@ -1,0 +1,6 @@
+{
+  "name": "TaskFlow",
+  "description": "A simple, clean, and production-quality Todo application with user authentication, priority management, and task filtering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
