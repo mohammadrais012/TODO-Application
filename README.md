@@ -20,8 +20,6 @@ TaskFlow is designed to feel natural, minimal, practical, and visually polished 
 - **Filter Tabs:** Quick navigation between `All`, `Pending`, `Completed`, and `High Priority` tasks with live count badges.
 - **Clean Summary Stats:** Compact overview cards for Total Tasks, Completed, Pending, and High Priority.
 - **Responsive UI:** Fully responsive layout with custom vanilla CSS crafted for mobile, tablet, laptop, and desktop viewports.
-- **Human-Designed Polish:** Built with gentle off-white backgrounds, dark navy typography, subtle borders, and smooth transitions.
-
 ---
 
 ## Tech Stack
